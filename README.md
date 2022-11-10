@@ -11,6 +11,14 @@
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuskirsten&show_icons=true&theme=dark)
 
 ##
+<div style="display: inline_block"><br>
+<img aling="center" alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img aling="center" alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img aling="center" alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img aling="center" alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+##
 
 ### 📷 Redes Sociais / ☎️ Contato  
 
