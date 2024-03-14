@@ -4,7 +4,7 @@
  
 * 📚 Cursando Informática para Internet - Fundação Escola Técnica Liberato Salzano Vieira da Cunha. 
 
-* 💻 Estudante de Java, JavaScript, HTML e CSS. Atualmente dando ênfase em Java. 
+* 💻 Estudante de C#, JavaScript, HTML e CSS. Atualmente dando ênfase em C#. 
 
 ##
 
