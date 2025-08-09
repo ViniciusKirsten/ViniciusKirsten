@@ -1,13 +1,18 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><strong>Olá, meu nome é Vinicius</strong></h2>
 
+<br>
+
 Sou um desenvolvedor back-end apaixonado por tecnologia, com foco em C# e ASP.NET.
 Gosto de aprender de forma prática e aprofundada, sempre buscando entender a lógica por trás do código para entregar soluções eficientes e bem estruturadas.
 
 Se quiser conhecer mais dos meus projetos e acompanhar minha evolução, fique à vontade para explorar meus repositórios! 😉
 
+<br>
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuskirsten&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuskirsten&layout=compact&theme=dark) |
 | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -25,6 +30,7 @@ Se quiser conhecer mais dos meus projetos e acompanhar minha evolução, fique �
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
+<br>
 <h2 align="center"><strong>Contato</strong></h2>
 
 <div align="center">
